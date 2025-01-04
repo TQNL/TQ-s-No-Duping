@@ -1,6 +1,10 @@
 {
-    "pack":{
-        "pack_format": 48,
-        "description": "Various toggles for disabling dupes. By ThijquintNL."
+  "pack": {
+    "pack_format": 57,
+    "description": "Various toggles for disabling dupes. By ThijquintNL.",
+    "supported_formats": {
+      "min_inclusive": 57,
+      "max_inclusive": 61
     }
+  }
 }

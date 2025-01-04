@@ -1,5 +1,4 @@
 rails
 carpets
-string
 tnt
 gravity_blocks

@@ -5,7 +5,6 @@ tellraw @s {"text":"- command to view the current dupe settings: /trigger tq_no_
 tellraw @s {"text":"- <duplication_glitch> is one of:"}
 tellraw @s {"text":"  - rails"}
 tellraw @s {"text":"  - carpets"}
-tellraw @s {"text":"  - string"}
 tellraw @s {"text":"  - tnt"}
 tellraw @s {"text":"  - gravity_blocks"}
 
