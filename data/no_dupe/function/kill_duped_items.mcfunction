@@ -1,4 +1,8 @@
 execute if data storage tqs_no_duping:dupe_settings {rails:0b} as @e[type=item] at @s if items entity @s contents #rails if block ~ ~ ~ moving_piston run kill @s
+execute if data storage tqs_no_duping:dupe_settings {rails:0b} as @e[type=item] at @s if items entity @s contents #rails if block ~ ~ ~ #air if block ~1 ~ ~ moving_piston run kill @s
+execute if data storage tqs_no_duping:dupe_settings {rails:0b} as @e[type=item] at @s if items entity @s contents #rails if block ~ ~ ~ #air if block ~-1 ~ ~ moving_piston run kill @s
+execute if data storage tqs_no_duping:dupe_settings {rails:0b} as @e[type=item] at @s if items entity @s contents #rails if block ~ ~ ~ #air if block ~ ~ ~1 moving_piston run kill @s
+execute if data storage tqs_no_duping:dupe_settings {rails:0b} as @e[type=item] at @s if items entity @s contents #rails if block ~ ~ ~ #air if block ~ ~ ~-1 moving_piston run kill @s
 
 execute if data storage tqs_no_duping:dupe_settings {carpets:0b} as @e[type=item] at @s if items entity @s contents #wool_carpets if block ~ ~ ~ moving_piston run kill @s
 
