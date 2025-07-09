@@ -7,6 +7,7 @@ tellraw @s {"text":"  - rails"}
 tellraw @s {"text":"  - carpets"}
 tellraw @s {"text":"  - tnt"}
 tellraw @s {"text":"  - gravity_blocks"}
+tellraw @s {"text":"  - tripwire_hook"}
 
 tellraw @s {"color":"gray","text":"----------------------------------------"}
 

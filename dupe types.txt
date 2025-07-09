@@ -2,3 +2,4 @@ rails
 carpets
 tnt
 gravity_blocks
+tripwire hooks

@@ -3,6 +3,7 @@ tellraw @s [{"text":"- rails: "},{"nbt":"rails","storage":"tqs_no_duping:dupe_se
 tellraw @s [{"text":"- carpets: "},{"nbt":"carpets","storage":"tqs_no_duping:dupe_settings"}]
 tellraw @s [{"text":"- tnt: "},{"nbt":"tnt","storage":"tqs_no_duping:dupe_settings"}]
 tellraw @s [{"text":"- gravity_blocks: "},{"nbt":"gravity_blocks","storage":"tqs_no_duping:dupe_settings"}]
+tellraw @s [{"text":"- tripwire_hook: "},{"nbt":"tripwire_hook","storage":"tqs_no_duping:dupe_settings"}]
 
 tellraw @s {"color":"gray","text":"----------------------------------------"}
 
