@@ -1,5 +1,5 @@
 rails
 carpets
 tnt
-gravity_blocks
+gravity blocks
 tripwire hooks

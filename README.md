@@ -1,5 +1,5 @@
 # TQ-s-No-Duping
-This data pack aims to disable the following duplication glitches: rails; carpets; tnt; gravity_blocks. It does this by deleting the duplicated item or entity after it has been created in the general set-ups.
+This data pack aims to disable the following duplication glitches: rails; carpets; tnt; gravity blocks; tripwire hooks. It does this by deleting the duplicated item or entity after it has been created in the general set-ups.
 
 There are various commands to configure this data pack for your world or server, shown with `/trigger tq_no_dupe_tutorial` or below here:
 - command to enable a dupe: `/function no_dupe:enable_dupe {dupe:'<duplication_glitch>'}`
